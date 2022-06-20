@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/advice-generator-app/static/css/main.a4bf15e7.css",
-    "main.js": "/advice-generator-app/static/js/main.7e3a9221.js",
-    "index.html": "/advice-generator-app/index.html",
-    "static/media/icon-dice.svg": "/advice-generator-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
-    "static/media/pattern-divider-mobile.svg": "/advice-generator-app/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.a4bf15e7.css.map": "/advice-generator-app/static/css/main.a4bf15e7.css.map",
-    "main.7e3a9221.js.map": "/advice-generator-app/static/js/main.7e3a9221.js.map"
+    "main.css": "/static/css/main.a4bf15e7.css",
+    "main.js": "/static/js/main.a2db2ce6.js",
+    "index.html": "/index.html",
+    "static/media/icon-dice.svg": "/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-mobile.svg": "/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.a4bf15e7.css.map": "/static/css/main.a4bf15e7.css.map",
+    "main.a2db2ce6.js.map": "/static/js/main.a2db2ce6.js.map"
   },
   "entrypoints": [
     "static/css/main.a4bf15e7.css",
-    "static/js/main.7e3a9221.js"
+    "static/js/main.a2db2ce6.js"
   ]
 }
