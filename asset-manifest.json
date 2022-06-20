@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4bf15e7.css",
-    "main.js": "/static/js/main.a2db2ce6.js",
-    "index.html": "/index.html",
-    "static/media/icon-dice.svg": "/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
-    "static/media/pattern-divider-mobile.svg": "/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.a4bf15e7.css.map": "/static/css/main.a4bf15e7.css.map",
-    "main.a2db2ce6.js.map": "/static/js/main.a2db2ce6.js.map"
+    "main.css": "/advise-generator-app/static/css/main.a4bf15e7.css",
+    "main.js": "/advise-generator-app/static/js/main.1457d030.js",
+    "index.html": "/advise-generator-app/index.html",
+    "static/media/icon-dice.svg": "/advise-generator-app/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-mobile.svg": "/advise-generator-app/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.a4bf15e7.css.map": "/advise-generator-app/static/css/main.a4bf15e7.css.map",
+    "main.1457d030.js.map": "/advise-generator-app/static/js/main.1457d030.js.map"
   },
   "entrypoints": [
     "static/css/main.a4bf15e7.css",
-    "static/js/main.a2db2ce6.js"
+    "static/js/main.1457d030.js"
   ]
 }
