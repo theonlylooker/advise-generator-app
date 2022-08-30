@@ -25,14 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/advice.jpg)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./screenshots/advice.gif)
 
 ### Links
 
 - Solution URL: [solution URL](https://github.com/theonlylooker/advise-generator-app)
-- Live Site URL: [live site URL]("https://theonlylooker.github.io/advice-generator-app")
+- Live Site URL: [live site URL]("https://theonlylooker.github.io/advise-generator-app/")
 
 ## My process
 
