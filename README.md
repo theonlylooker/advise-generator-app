@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/theonlylooker/advise-generator-app)
-- Live Site URL: [live site URL]("https://theonlylooker.github.io/advise-generator-app/")
+- Live Site URL: [live site URL](https://theonlylooker.github.io/advise-generator-app/)
 
 ## My process
 
